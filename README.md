@@ -15,5 +15,5 @@ python3 chatbot.py
 
 ## Chatbot in action
 
-### Screenshot shows chatbot in action with two user input error scenarios.
+*Screenshot shows chatbot in action with two user input error scenarios.*
 ![Decision Tree](chatbot_in_action.png)
