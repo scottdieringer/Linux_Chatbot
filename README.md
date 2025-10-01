@@ -8,8 +8,8 @@
 
 ## 🛠️ Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-chatbot-demo.git
-cd linux-chatbot-demo
+git clone https://github.com/scottdieringer/Linux_Chatbot.git
+cd Linux_Chatbot
 python3 chatbot.py
 ```
 
